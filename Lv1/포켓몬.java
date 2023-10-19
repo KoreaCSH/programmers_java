@@ -1,4 +1,4 @@
-import java.util.*l
+import java.util.*;
 
 public class 포켓몬 {
 
