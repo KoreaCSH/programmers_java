@@ -1,3 +1,5 @@
+package Lv1;
+
 import java.util.*;
 
 public class 성격유형검사하기 {

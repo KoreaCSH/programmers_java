@@ -1,3 +1,5 @@
+package Lv1;
+
 import java.util.*;
 
 public class 개인정보수집유효기간 {

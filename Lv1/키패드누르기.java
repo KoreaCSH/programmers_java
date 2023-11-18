@@ -1,3 +1,5 @@
+package Lv1;
+
 import java.util.*;
 
 public class 키패드누르기 {

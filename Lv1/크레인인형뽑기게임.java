@@ -1,3 +1,5 @@
+package Lv1;
+
 import java.util.*;
 
 public class 크레인인형뽑기게임 {

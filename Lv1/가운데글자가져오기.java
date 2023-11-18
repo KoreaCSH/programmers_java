@@ -1,3 +1,5 @@
+package Lv1;
+
 public class 가운데글자가져오기 {
 
     public String solution(String s) {

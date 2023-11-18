@@ -1,3 +1,5 @@
+package Lv1;
+
 public class 수박 {
 
     public String solution(int n) {
@@ -8,7 +10,7 @@ public class 수박 {
             return "수";
         }
         else if(n==2) {
-            return "수박";
+            return "Lv11.수박";
         }
         else if(n % 2 == 1) {
             sb.append("수");
@@ -18,7 +20,7 @@ public class 수박 {
         }
         else {
             for(int i = 0; i < n/2; i++) {
-                sb.append("수박");
+                sb.append("Lv11.수박");
             }
         }
 

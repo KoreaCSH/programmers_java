@@ -1,3 +1,5 @@
+package Lv1;
+
 import java.util.*;
 
 public class K번째수 {

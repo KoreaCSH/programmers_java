@@ -1,3 +1,5 @@
+package Lv1;
+
 public class 크기가작은부분문자열 {
 
     public int solution(String t, String p) {

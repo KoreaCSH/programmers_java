@@ -1,3 +1,5 @@
+package Lv1;
+
 public class 바탕화면정리 {
 
     static int n, m;

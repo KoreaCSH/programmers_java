@@ -1,3 +1,5 @@
+package Lv1;
+
 public class 공원산책 {
 
     static char[][] map;

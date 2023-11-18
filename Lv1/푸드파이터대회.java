@@ -1,3 +1,5 @@
+package Lv1;
+
 public class 푸드파이터대회 {
 
     public String solution(int[] food) {

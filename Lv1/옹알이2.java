@@ -1,3 +1,5 @@
+package Lv1;
+
 public class 옹알이2 {
 
     public int solution(String[] babbling) {

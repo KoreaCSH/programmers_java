@@ -1,3 +1,5 @@
+package Lv1;
+
 import java.util.*;
 
 public class 완주하지못한선수 {

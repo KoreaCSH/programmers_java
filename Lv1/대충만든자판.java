@@ -1,3 +1,5 @@
+package Lv1;
+
 import java.util.*;
 
 public class 대충만든자판 {

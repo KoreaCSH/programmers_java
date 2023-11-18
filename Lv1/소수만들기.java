@@ -1,3 +1,5 @@
+package Lv1;
+
 public class 소수만들기 {
 
     public int solution(int[] nums) {

@@ -1,3 +1,5 @@
+package Lv1;
+
 import java.util.*;
 
 public class 없는숫자더하기 {

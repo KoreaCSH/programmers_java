@@ -1,3 +1,5 @@
+package Lv1;
+
 import java.util.*;
 
 public class 가장가까운같은글자 {

@@ -1,3 +1,5 @@
+package Lv1;
+
 import java.util.*;
 
 public class 두개뽑아서더하기 {

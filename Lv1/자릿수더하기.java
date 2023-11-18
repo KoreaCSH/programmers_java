@@ -1,3 +1,5 @@
+package Lv1;
+
 public class 자릿수더하기 {
 
     public int solution(int n) {
